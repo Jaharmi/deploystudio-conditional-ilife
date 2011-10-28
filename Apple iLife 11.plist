@@ -622,6 +622,23 @@
 			<key>title</key>
 			<string>Install task</string>
 		</dict>
+		<key>37</key>
+		<dict>
+			<key>automate</key>
+			<string>YES</string>
+			<key>ignoreinstallfailure</key>
+			<string>NO</string>
+			<key>package</key>
+			<string>iPhoto9.2.1Update.dmg</string>
+			<key>postponedinstall</key>
+			<string>YES</string>
+			<key>targettype</key>
+			<string>lastselectedtarget</string>
+			<key>task</key>
+			<string>install</string>
+			<key>title</key>
+			<string>Install task</string>
+		</dict>
 	</dict>
 	<key>title</key>
 	<string>Install Apple iLife 11</string>
