@@ -612,7 +612,7 @@
 			<key>ignoreinstallfailure</key>
 			<string>NO</string>
 			<key>package</key>
-			<string>iPhoto9.2Update.dmg</string>
+			<string>iPhoto9.2Update.pkg</string>
 			<key>postponedinstall</key>
 			<string>YES</string>
 			<key>targettype</key>
@@ -629,7 +629,7 @@
 			<key>ignoreinstallfailure</key>
 			<string>NO</string>
 			<key>package</key>
-			<string>iPhoto9.2.1Update.dmg</string>
+			<string>iPhoto9.2.1Update.pkg</string>
 			<key>postponedinstall</key>
 			<string>YES</string>
 			<key>targettype</key>
